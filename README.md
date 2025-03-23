@@ -1,6 +1,6 @@
-# AutoKYC
+# SENTRA
 
-AutoKYC API is an AI-powered Know Your Customer (KYC) and Anti-Money Laundering (AML) verification system that automates identity verification for businesses, fintech, and compliance teams. It enables seamless ID extraction, face matching, and liveness detection to prevent fraud and ensure regulatory compliance.
+SENTRA API is an AI-powered Know Your Customer (KYC) and Anti-Money Laundering (AML) verification system that automates identity verification for businesses, fintech, and compliance teams. It enables seamless ID extraction, face matching, and liveness detection to prevent fraud and ensure regulatory compliance.
 
 ## Key Features
 
